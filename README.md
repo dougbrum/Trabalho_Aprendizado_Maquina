@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto utiliza técnicas de aprendizado de máquina para prever as respostas dos clientes em campanhas de marketing, com base no conjunto de dados "Customer Personality Analysis". O objetivo é maximizar o lucro em campanhas futuras, entendendo as preferências e comportamentos dos clientes.
+Este projeto foi desenvolvido como parte da disciplina de Aprendizado de Máquina, sob a orientação da Professora Dr. Flávia Bernardini, no Instituto de Computação da Universidade Federal Fluminense. Os alunos responsáveis são: Douglas Brum, Lucas Mendonça e Tatiana Machado. O objetivo é utilizar técnicas de aprendizado de máquina para prever as respostas dos clientes em campanhas de marketing, com base no conjunto de dados "Customer Personality Analysis".
 
 ## Contexto do Projeto
 
