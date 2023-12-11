@@ -35,7 +35,7 @@ O estudo é direcionado ao setor de varejo de alimentos, utilizando dados de 2.2
 
 ## Metodologia
 
-O projeto envolve a análise exploratória de dados, segmentação de clientes e construção de um modelo preditivo usando o Classificador Random Forest.
+O projeto envolve a análise exploratória de dados, segmentação de clientes e construção de um modelo preditivo usando classificadores como Random Forest, Logistic Regression, GradientBoostingClassifier e DecisionTreeClassifier.
 
 ## Modelagem e Avaliação
 
