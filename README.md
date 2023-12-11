@@ -37,6 +37,10 @@ O estudo é direcionado ao setor de varejo de alimentos, utilizando dados de 2.2
 
 O projeto envolve a análise exploratória de dados, segmentação de clientes e construção de um modelo preditivo usando o Classificador Random Forest.
 
+## Modelagem e Avaliação
+
+As métricas de desempenho são essenciais na avaliação de modelos de machine learning, oferecendo insights sobre como eles operam sob diferentes condições. Analisamos o desempenho de classificadores como Random Forest, Logistic Regression, GradientBoostingClassifier e DecisionTreeClassifier. O Random Forest se destaca por seu equilíbrio notável entre Precision e Recall, sendo uma escolha excelente para situações que exigem uma abordagem equilibrada e eficaz.
+
 ## Resultados e Conclusão
 
 O modelo Random Forest se destacou, mostrando-se uma ferramenta poderosa para a segmentação eficaz de clientes e otimização de campanhas de marketing. O estudo fornece insights valiosos para estratégias de marketing direcionadas e personalizadas.
